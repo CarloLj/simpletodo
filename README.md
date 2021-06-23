@@ -36,6 +36,11 @@ GIF created with [Kap](https://getkap.co/).
 
 Describe any challenges encountered while building the app.
 
+*Started the project again, I entered to the wrong slides tutorial which used a deprecated item <ListView>.
+*Didn't know there was the another tutorial, I realized that some hours after some research by myself.
+*Second day using MAC OS
+*First time ever coding using a MAC
+
 ## License
 
     Copyright [2021] [Carlo Angel Lujan Garcia]
