@@ -28,7 +28,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='gif/file.gif' title='Video Walkthrough' height='200' width='500' alt='Video Walkthrough' />
+<img src='gif/file.gif' title='Video Walkthrough' height='400' width='800' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
